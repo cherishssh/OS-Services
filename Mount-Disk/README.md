@@ -80,7 +80,4 @@ defaults：挂载时所要设定的参数(只读，读写，启用quota等)，�
 
 ### 打赏作者喝杯咖啡
 <center>`如果觉得我的文章对您有用，请随意打赏。您的支持将鼓励我继续创作！`</center>
-<!-- ![]https://github.com/cherishssh/OS-Services/tree/main/Image/Wechat.jpeg -->
-![](/Users/sunshaohua/Documents/MAIN/MacFile_Gitrepo/OS-Services/Wechat.jpeg)
-
-
+![image text]http://huawei.sunshaohua.cn/Image/Wechat.jpeg
