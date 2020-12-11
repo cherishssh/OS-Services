@@ -76,3 +76,8 @@ defaults：挂载时所要设定的参数(只读，读写，启用quota等)，�
 
 #### 检查系统磁盘使用情况
 运行命令 ` df -Th`
+
+
+### 打赏作者喝杯咖啡
+<center>`如果觉得我的文章对您有用，请随意打赏。您的支持将鼓励我继续创作！`</center>
+<center>![]./Image/Wechat.jpeg</center>
