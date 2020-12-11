@@ -80,4 +80,8 @@ defaults：挂载时所要设定的参数(只读，读写，启用quota等)，�
 ## <center>打赏作者喝杯咖啡</center>
 ### <center>如果觉得我的文章对您有用,请随意打赏. 您的支持将鼓励我继续创作！</center>
 <img src="https://gitee.com/cherishssh/OS-Services/raw/main/Wechat.jpeg" height="320" width="235">
+<<<<<<< HEAD
 <!-- ![](https://gitee.com/cherishssh/OS-Services/raw/main/Wechat.jpeg) -->
+=======
+<!-- ![](https://gitee.com/cherishssh/OS-Services/raw/main/Wechat.jpeg) -->
+>>>>>>> 8ff0b5087814cd3a85769a8306e9f8fc8a3bbff1
