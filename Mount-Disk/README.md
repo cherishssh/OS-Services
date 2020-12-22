@@ -82,8 +82,7 @@ defaults：挂载时所要设定的参数(只读，读写，启用quota等)，�
 ## <center>打赏作者喝杯咖啡</center>
 ### <center>如果觉得我的文章对您有用,请随意打赏.您的支持将鼓励我继续创作！</center>
 - [x]微信还是支付宝？
-<img src="https://gitee.com/cherishssh/images/blob/master/Image/Wechat.jpeg" height="340" width="235">
-<img src="https://gitee.com/cherishssh/images/raw/master/Image/WechatAL.jpeg" height="340" width="235">
+<img src="https://gitee.com/cherishssh/images/raw/master/Image/Wechat.jpeg" height="340" width="235"> <img src="https://gitee.com/cherishssh/images/raw/master/Image/WechatAL.jpeg" height="340" width="235">
 
 
 <!-- <img src="https://raw.githubusercontent.com/cherishssh/OS-Services/main/Image/Wechat.jpeg" height="320" width="235"> <img src="https://raw.githubusercontent.com/cherishssh/OS-Services/main/Image/WechatAL.jpeg" height="320" width="235">  -->
