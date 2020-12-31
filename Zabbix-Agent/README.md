@@ -15,8 +15,6 @@
     - [配置修改 zabbix agent 配置文件](#%E9%85%8D%E7%BD%AE%E4%BF%AE%E6%94%B9-zabbix-agent-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
 - [启动](#%E5%90%AF%E5%8A%A8)
     - [启动服务，并配置开机自动启动](#%E5%90%AF%E5%8A%A8%E6%9C%8D%E5%8A%A1%EF%BC%8C%E5%B9%B6%E9%85%8D%E7%BD%AE%E5%BC%80%E6%9C%BA%E8%87%AA%E5%8A%A8%E5%90%AF%E5%8A%A8)
-- [打赏作者喝杯咖啡](#%E6%89%93%E8%B5%8F%E4%BD%9C%E8%80%85%E5%96%9D%E6%9D%AF%E5%92%96%E5%95%A1)
-- [如果觉得我的文章对您有用,请随意打赏.您的支持将鼓励我继续创作！](#%E5%A6%82%E6%9E%9C%E8%A7%89%E5%BE%97%E6%88%91%E7%9A%84%E6%96%87%E7%AB%A0%E5%AF%B9%E6%82%A8%E6%9C%89%E7%94%A8%E8%AF%B7%E9%9A%8F%E6%84%8F%E6%89%93%E8%B5%8F%E6%82%A8%E7%9A%84%E6%94%AF%E6%8C%81%E5%B0%86%E9%BC%93%E5%8A%B1%E6%88%91%E7%BB%A7%E7%BB%AD%E5%88%9B%E4%BD%9C%EF%BC%81)
 
 <!-- /MarkdownTOC -->
 
@@ -108,8 +106,8 @@ systemctl restart abbix-agent
 systemctl enable zabbix-agent
 ```
 
-## <center>打赏作者喝杯咖啡</center>
-### <center>如果觉得我的文章对您有用,请随意打赏.您的支持将鼓励我继续创作！</center>
+<H2><Center>打赏作者喝杯咖啡</Center></H2>
+<H3><center>如果觉得我的文章对您有用,请随意打赏.您的支持将鼓励我继续创作！</center></H3>
 - [x]微信还是支付宝？
 
 <img src="https://gitee.com/cherishssh/images/raw/master/Image/Wechat.jpeg" height="340" width="235"> <img src="https://gitee.com/cherishssh/images/raw/master/Image/WechatAL.jpeg" height="340" width="235">
